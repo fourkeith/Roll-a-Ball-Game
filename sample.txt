@@ -6,3 +6,5 @@ How much i have to do during this class.
       <title>The Garage</title>
    </head>
 </html>
+
+This takes a long time.
