@@ -1,1 +1,8 @@
 How much i have to do during this class.
+
+<!Doctype html>
+<html>
+   <head>
+      <title>The Garage</title>
+   </head>
+</html>
